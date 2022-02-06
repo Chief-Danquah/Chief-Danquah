@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chief-Danquah Felix Mireku Danquah
+- 👋 Hi, I’m @Felix_Mireku_Danquah
 - 👀 I’m interested in data science, data analytics, data engineering, data visualization
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science
